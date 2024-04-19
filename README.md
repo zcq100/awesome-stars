@@ -336,7 +336,7 @@
 
 ## Others 
 
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [paraself/PingFang-Fonts](https://github.com/paraself/PingFang-Fonts) - 
 - [BaRRaKudaRain/PCem-ROMs](https://github.com/BaRRaKudaRain/PCem-ROMs) - This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
