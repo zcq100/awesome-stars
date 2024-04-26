@@ -39,6 +39,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -202,7 +203,7 @@
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [DavidDeSimone/OpenCloudSaves](https://github.com/DavidDeSimone/OpenCloudSaves) - A tool used for syncing your save games across your devices
@@ -588,6 +589,10 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 ## Swift 
 
