@@ -32,6 +32,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [Ren'Py](#ren'py)
@@ -399,6 +400,10 @@
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 - [me2d13/luamacros](https://github.com/me2d13/luamacros) - 
 - [nodemcu/nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher) - A firmware Flash tool for nodemcu
+
+## PowerShell 
+
+- [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 
 ## Pug 
 
