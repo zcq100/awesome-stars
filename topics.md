@@ -100,6 +100,7 @@
 - [language](#language)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -835,6 +836,11 @@
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [lucascaton/vimfiles](https://github.com/lucascaton/vimfiles) - Vim files by Lucas Caton
 - [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
+
+## llm 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 
 ## lua 
 
