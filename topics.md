@@ -53,6 +53,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -479,6 +480,10 @@
 
 - [hynek/doc2dash](https://github.com/hynek/doc2dash) - Create docsets for Dash.app-compatible API browsers.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+## dotfiles 
+
+- [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 
 ## dotnet 
 
