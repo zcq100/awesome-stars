@@ -100,6 +100,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [languages](#languages)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -613,6 +614,7 @@
 
 ## go 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -625,6 +627,7 @@
 
 ## golang 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -815,6 +818,10 @@
 
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
+## languages 
+
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
+
 ## library 
 
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -822,6 +829,7 @@
 
 ## linux 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -866,6 +874,7 @@
 
 ## macos 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -948,6 +957,7 @@
 
 ## others 
 
+- [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) - Qt based GUI tool designed to create and edit .torrent files
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -1224,6 +1234,7 @@
 
 ## programming 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1556,6 +1567,7 @@
 
 ## windows 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
