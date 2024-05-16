@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, etc. A better choice than nvm,
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -262,6 +263,7 @@
 
 ## JavaScript 
 
+- [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [laindream/new_idlefish_detection](https://github.com/laindream/new_idlefish_detection) - 安卓闲鱼上新爬虫，基于pocp和airtest。
