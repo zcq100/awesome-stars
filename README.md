@@ -429,6 +429,7 @@
 
 ## Python 
 
+- [waditu/czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
