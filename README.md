@@ -21,6 +21,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Inno Setup](#inno-setup)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -28,7 +29,6 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
 - [Meson](#meson)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -257,6 +257,10 @@
 
 - [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
@@ -343,10 +347,6 @@
 
 - [android-rpi/device_brcm_rpi3](https://github.com/android-rpi/device_brcm_rpi3) - 
 - [kuoruan/openwrt-v2ray](https://github.com/kuoruan/openwrt-v2ray) - V2Ray for OpenWrt
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Meson 
 
