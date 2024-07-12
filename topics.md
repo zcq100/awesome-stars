@@ -1136,7 +1136,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [lephisto/tesla-apiscraper](https://github.com/lephisto/tesla-apiscraper) - API Scraper for pulling Vehicle Statistics from the Tesla Owner API into an InfluxDB + Grafana Dashboards
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [bear-metal/mosquitto](https://github.com/bear-metal/mosquitto) - Ruby binding against libmosquitto (http://mosquitto.org/) - a high performance MQTT protocol (http://mqtt.org) client
