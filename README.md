@@ -506,7 +506,7 @@
 - [ausaki/subfinder](https://github.com/ausaki/subfinder) - 字幕查找器
 - [chaosct/OSCRecordTools](https://github.com/chaosct/OSCRecordTools) - Tools  to help debugging TUIO applications.
 - [attwad/python-osc](https://github.com/attwad/python-osc) - Open Sound Control server and client in pure python
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
