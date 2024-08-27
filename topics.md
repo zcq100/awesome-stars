@@ -912,6 +912,7 @@
 
 ## macos 
 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
