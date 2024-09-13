@@ -955,6 +955,7 @@
 
 ## monitoring 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -1010,6 +1011,7 @@
 
 ## others 
 
+- [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - A web slideshow for Immich
 - [farseerfc/pacvis](https://github.com/farseerfc/pacvis) - Visualize pacman local database using Vis.js, inspired by pacgraph.
@@ -1473,6 +1475,7 @@
 
 ## self-hosted 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
