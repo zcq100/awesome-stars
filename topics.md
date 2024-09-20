@@ -234,7 +234,7 @@
 ## api 
 
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1436,6 +1436,7 @@
 
 ## rest-api 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -1629,7 +1630,7 @@
 
 ## vue 
 
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
