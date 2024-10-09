@@ -441,6 +441,7 @@
 
 ## Python 
 
+- [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [farseerfc/pacvis](https://github.com/farseerfc/pacvis) - Visualize pacman local database using Vis.js, inspired by pacgraph.
@@ -654,7 +655,7 @@
 
 ## TypeScript 
 
-- [matvp91/mixwave](https://github.com/matvp91/mixwave) - Convert, package and manipulate your video on the fly.
+- [matvp91/mixwave](https://github.com/matvp91/mixwave) - Building a video platform? This all-in-one toolkit handles everything from ingest to player! Transcode at scale, package for streaming, and smoothly insert bumpers and ads on-the-fly with ease.
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
