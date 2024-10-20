@@ -505,7 +505,7 @@
 - [summerkirakira/starcitizen-localization-cn](https://github.com/summerkirakira/starcitizen-localization-cn) - 
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-- [vsajip/python-gnupg](https://github.com/vsajip/python-gnupg) - A Python API for the GNU Privacy Guard (GnuPG). N.B. This repository has been migrated from Mercurial on 2019-11-16, so references to commits before this date will refer to the Mercurial source and no
+- [vsajip/python-gnupg](https://github.com/vsajip/python-gnupg) - A Python API for the GNU Privacy Guard (GnuPG). Encrypt, decrypt, sign and verify your data using Python! N.B. This repository has been migrated from Mercurial on 2019-11-16, so references to commits 
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [wxy1343/aliyunpan](https://github.com/wxy1343/aliyunpan) - 阿里云盘cli
@@ -659,7 +659,7 @@
 
 ## TypeScript 
 
-- [matvp91/mixwave](https://github.com/matvp91/mixwave) - Building a video platform? This all-in-one toolkit handles everything from ingest to player! Transcode at scale, package for streaming, and smoothly insert bumpers and ads on-the-fly with ease.
+- [matvp91/mixwave](https://github.com/matvp91/mixwave) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback.
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
