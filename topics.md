@@ -234,6 +234,7 @@
 
 ## api 
 
+- [matvp91/mixwave](https://github.com/matvp91/mixwave) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback.
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -1031,7 +1032,6 @@
 ## others 
 
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
-- [matvp91/mixwave](https://github.com/matvp91/mixwave) - Building a video platform? This all-in-one toolkit handles everything from ingest to player! Transcode at scale, package for streaming, and smoothly insert bumpers and ads on-the-fly with ease.
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
@@ -1368,7 +1368,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [skywind3000/PyStand](https://github.com/skywind3000/PyStand) - :rocket: Python Standalone Deploy Environment !!
-- [vsajip/python-gnupg](https://github.com/vsajip/python-gnupg) - A Python API for the GNU Privacy Guard (GnuPG). N.B. This repository has been migrated from Mercurial on 2019-11-16, so references to commits before this date will refer to the Mercurial source and no
+- [vsajip/python-gnupg](https://github.com/vsajip/python-gnupg) - A Python API for the GNU Privacy Guard (GnuPG). Encrypt, decrypt, sign and verify your data using Python! N.B. This repository has been migrated from Mercurial on 2019-11-16, so references to commits 
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
