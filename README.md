@@ -59,6 +59,7 @@
 
 ## C 
 
+- [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
@@ -659,7 +660,7 @@
 
 ## TypeScript 
 
-- [matvp91/mixwave](https://github.com/matvp91/mixwave) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback.
+- [matvp91/mixwave](https://github.com/matvp91/mixwave) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
