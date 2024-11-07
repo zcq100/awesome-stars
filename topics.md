@@ -115,6 +115,7 @@
 - [mastodon](#mastodon)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
@@ -978,6 +979,10 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 
+## music 
+
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
+
 ## mysql 
 
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -1437,6 +1442,7 @@
 
 ## react 
 
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -1617,6 +1623,7 @@
 
 ## typescript 
 
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
