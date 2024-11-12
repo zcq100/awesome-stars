@@ -812,6 +812,7 @@
 
 ## iot 
 
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [timdorr/tesla-api](https://github.com/timdorr/tesla-api) - 🚘 A Ruby gem and unofficial documentation of Tesla's JSON API for the Model S, 3, X, and Y.
 - [esphome/issues](https://github.com/esphome/issues) - Issue Tracker for ESPHome
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
