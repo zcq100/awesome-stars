@@ -119,7 +119,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers
 - [CymaticLabs/InfluxDBStudio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool for the InfluxDB time series database.
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [kaedei/aliyun-ddns-client-csharp](https://github.com/kaedei/aliyun-ddns-client-csharp) - 基于阿里云解析服务API的DDNS客户端。将本机IP更新至指定域名的DNS A记录，配合定时任务可以达到花生壳的效果。
@@ -267,6 +267,7 @@
 - [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [codeasashu/hcz-jekyll-blog](https://github.com/codeasashu/hcz-jekyll-blog) - A simple material theme for blogger
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
 
 ## Inno Setup 
@@ -419,7 +420,6 @@
 - [telegramlist/telegramlist](https://github.com/telegramlist/telegramlist) - Telegram中文群索引列表（言论自由版）
 - [decred/decred-binaries](https://github.com/decred/decred-binaries) - Binary archives for Decred releases.
 - [nanopool/Claymore-Dual-Miner](https://github.com/nanopool/Claymore-Dual-Miner) - Claymore's Dual Ethereum+Decred_Siacoin_Lbry AMD+NVIDIA GPU Miner
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mengskysama/shadowsocks](https://github.com/mengskysama/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
 - [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
@@ -463,7 +463,7 @@
 - [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 - [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 - [waditu/czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
