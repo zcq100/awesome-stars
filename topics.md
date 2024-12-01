@@ -65,6 +65,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [english](#english)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -106,6 +107,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
+- [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -298,6 +300,7 @@
 
 ## azure 
 
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 
 ## bash 
@@ -502,6 +505,7 @@
 
 ## docker 
 
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -573,6 +577,10 @@
 
 - [BaRRaKudaRain/PCem-ROMs](https://github.com/BaRRaKudaRain/PCem-ROMs) - This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021
 - [SourMesen/Mesen](https://github.com/SourMesen/Mesen) - Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#
+
+## english 
+
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 
 ## firefox 
 
@@ -892,6 +900,10 @@
 
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 
+## latex 
+
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+
 ## library 
 
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -1034,6 +1046,7 @@
 
 ## openai 
 
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
