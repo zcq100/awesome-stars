@@ -1066,6 +1066,7 @@
 
 ## others 
 
+- [QingNetwork/FuckingHuaweiHG8321R](https://github.com/QingNetwork/FuckingHuaweiHG8321R) - 通过使能破解华为HG8321R光猫打开Telnet突破超管限制
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
