@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -58,6 +59,10 @@
 ## Astro 
 
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
+
+## Batchfile 
+
+- [QingNetwork/FuckingHuaweiHG8321R](https://github.com/QingNetwork/FuckingHuaweiHG8321R) - 通过使能破解华为HG8321R光猫打开Telnet突破超管限制
 
 ## C 
 
