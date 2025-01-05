@@ -517,7 +517,7 @@
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [jquast/blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [zcq100/tieba-sign](https://github.com/zcq100/tieba-sign) - 贴吧自动签到
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) - 爆破字典
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [skshetry/webdav4](https://github.com/skshetry/webdav4) - WebDAV client library with a fsspec based filesystem and a CLI.
