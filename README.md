@@ -682,7 +682,6 @@
 
 ## Swift 
 
-- [lucanaef/PGPro](https://github.com/lucanaef/PGPro) - OpenPGP En- & Decryption App for iOS
 - [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 - [zhuhaow/NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
