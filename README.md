@@ -345,7 +345,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [windy/wblog](https://github.com/windy/wblog) - The missing independent blog system for Ruby on Rails
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
 - [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
 - [kissyteam/kissy](https://github.com/kissyteam/kissy) - A Powerful Collection Of Modules
@@ -619,6 +618,7 @@
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat) - API, command and message handling for WeChat in Rails
 - [TimothyYe/DynDNS](https://github.com/TimothyYe/DynDNS) - Dynamic DNS script tool, written by ruby.
+- [windy/wblog](https://github.com/windy/wblog) - The missing independent blog system for Ruby on Rails
 - [ruby-china/homeland](https://github.com/ruby-china/homeland) - :circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [xixilive/wecheat](https://github.com/xixilive/wecheat) - 开箱即用的微信公众平台API模拟服务器，帮助你开发与调试微信公众平台应用
