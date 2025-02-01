@@ -1100,7 +1100,7 @@
 - [FYSETC/FYSETC-BLV-MGN-CUBE](https://github.com/FYSETC/FYSETC-BLV-MGN-CUBE) - FYSETC Kit - This kit is BLV project that comes from Ben Levi, and its name is BLV MGN Cube.We've made some optimizations on top of that, and we hope you like it.
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
-- [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [farseerfc/pacvis](https://github.com/farseerfc/pacvis) - Visualize pacman local database using Vis.js, inspired by pacgraph.
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
