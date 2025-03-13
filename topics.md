@@ -1395,6 +1395,7 @@
 
 ## php 
 
+- [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
