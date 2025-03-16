@@ -53,6 +53,7 @@
 
 ## Assembly 
 
+- [PluMGMK/vbesvga.drv](https://github.com/PluMGMK/vbesvga.drv) - Modern Generic SVGA driver for Windows 3.1
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
 ## Astro 
