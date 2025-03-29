@@ -472,6 +472,7 @@
 
 ## Python 
 
+- [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [akshaybahadur21/Autopilot](https://github.com/akshaybahadur21/Autopilot) - A simple self-driving car module for humans 🚘 🛣️
 - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) - xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
 - [HumanSignal/label-studio-ml-backend](https://github.com/HumanSignal/label-studio-ml-backend) - Configs and boilerplates for Label Studio's Machine Learning backend
