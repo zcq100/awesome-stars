@@ -306,7 +306,7 @@
 ## JavaScript 
 
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 - [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
