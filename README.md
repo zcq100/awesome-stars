@@ -307,6 +307,7 @@
 
 ## JavaScript 
 
+- [nginx/nginx-s3-gateway](https://github.com/nginx/nginx-s3-gateway) - NGINX S3 Gateway
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
@@ -498,7 +499,7 @@
 - [Pavankunchala/LLM-Learn-PK](https://github.com/Pavankunchala/LLM-Learn-PK) - Testing the different LLM and RAG Tests  while I learn along the way
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [gongxian-ding/gmssl-python](https://github.com/gongxian-ding/gmssl-python) - a python crypto for sm2/sm3/sm4/sm9
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
