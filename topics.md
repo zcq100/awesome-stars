@@ -874,7 +874,7 @@
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [timdorr/tesla-api](https://github.com/timdorr/tesla-api) - 🚘 A Ruby gem and unofficial documentation of Tesla's JSON API for the Model S, 3, X, and Y.
 - [esphome/issues](https://github.com/esphome/issues) - Issue Tracker for ESPHome
-- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -996,7 +996,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed AI-RPA.
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - PulsarRPA: A Super-Fast, AI-Enabled Browser Automation Solution! 💖
 
 ## low-code 
 
