@@ -370,7 +370,7 @@
 ## Kotlin 
 
 - [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable.
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - PulsarRPA: A Super-Fast, AI-Enabled Browser Automation Solution! 💖
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - PulsarRPA: An AI-Enabled, Super-Fast, Thread-Safe Browser Automation Solution! 💖
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
