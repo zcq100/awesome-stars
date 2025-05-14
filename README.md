@@ -450,7 +450,6 @@
 - [nanopool/Claymore-Dual-Miner](https://github.com/nanopool/Claymore-Dual-Miner) - Claymore's Dual Ethereum+Decred_Siacoin_Lbry AMD+NVIDIA GPU Miner
 - [mengskysama/shadowsocks](https://github.com/mengskysama/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
-- [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 - [sunbo/flexpaper](https://github.com/sunbo/flexpaper) - 基于 flexpaper 做的小程序，类式于百度文档，上传pdf文件，自动转成swf，由 flexpaper 做在线阅读
 - [zcq100/naw-ar_mailer_rails3](https://github.com/zcq100/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
 
@@ -479,6 +478,7 @@
 
 ## Python 
 
+- [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [AlessandroLorenzi/immich-fuse](https://github.com/AlessandroLorenzi/immich-fuse) - Interact with your Immich server using filesystem.
 - [Kennarttechl/flask_quickstart_generator](https://github.com/Kennarttechl/flask_quickstart_generator) - The project generates boilerplate code for Flask applications.
 - [Topdu/OpenOCR](https://github.com/Topdu/OpenOCR) - OpenOCR: A general OCR system with accuracy and efficiency. Supporting 24 Scene Text Recognition methods trained from scratch on large-scale real datasets, and will continue to add the latest methods.
@@ -653,6 +653,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
+- [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
