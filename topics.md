@@ -1143,6 +1143,7 @@
 
 ## others 
 
+- [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [google/gasket-driver](https://github.com/google/gasket-driver) - 
 - [AlessandroLorenzi/immich-fuse](https://github.com/AlessandroLorenzi/immich-fuse) - Interact with your Immich server using filesystem.
 - [Kennarttechl/flask_quickstart_generator](https://github.com/Kennarttechl/flask_quickstart_generator) - The project generates boilerplate code for Flask applications.
