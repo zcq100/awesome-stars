@@ -286,7 +286,6 @@
 - [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [codeasashu/hcz-jekyll-blog](https://github.com/codeasashu/hcz-jekyll-blog) - A simple material theme for blogger
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
 
 ## Inno Setup 
@@ -622,6 +621,7 @@
 - [snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme) - Paper Icon Theme
 - [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher) - Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.
 - [taxigps/xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese) - Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [JinnLynn/genpac](https://github.com/JinnLynn/genpac) - PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
