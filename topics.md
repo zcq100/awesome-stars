@@ -1399,7 +1399,6 @@
 - [windy/wblog](https://github.com/windy/wblog) - The missing independent blog system for Ruby on Rails
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 - [shoes/shoes-deprecated](https://github.com/shoes/shoes-deprecated) - Former repo for Shoes... see README for up to date locations!
 - [iambus/xunlei-lixian](https://github.com/iambus/xunlei-lixian) - 迅雷离线下载脚本
 - [RehabMan/OS-X-ACPI-Debug](https://github.com/RehabMan/OS-X-ACPI-Debug) - A kernel extension and DSDT patches to enable debug tracing from ACPI code (DSDT) to system.log
@@ -1656,6 +1655,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [presidentbeef/brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 
 ## security-tools 
 
