@@ -628,7 +628,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 
 ## Ren'Py 
 
