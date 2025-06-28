@@ -660,7 +660,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
