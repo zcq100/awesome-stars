@@ -59,7 +59,6 @@
 
 ## Batchfile 
 
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [QingNetwork/FuckingHuaweiHG8321R](https://github.com/QingNetwork/FuckingHuaweiHG8321R) - 通过使能破解华为HG8321R光猫打开Telnet突破超管限制
 
 ## C 
@@ -406,6 +405,7 @@
 ## Others 
 
 - [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
@@ -660,7 +660,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - A Ruby wrapper for OAuth 2.0 protocol, including OIDC
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
