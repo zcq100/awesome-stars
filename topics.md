@@ -35,6 +35,7 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
+- [cms](#cms)
 - [coding](#coding)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
@@ -418,6 +419,10 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
+## cms 
+
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+
 ## coding 
 
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -597,6 +602,7 @@
 
 ## dotnet 
 
+- [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -1169,6 +1175,7 @@
 
 ## others 
 
+- [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [impeeza/sys-patch](https://github.com/impeeza/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
 - [ang3el7z/luci-app-singbox-ui](https://github.com/ang3el7z/luci-app-singbox-ui) - Luci app for controlling Sing-Box on OpenWRT
 - [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
