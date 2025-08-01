@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -51,6 +52,11 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Adblock Filter List 
+
+- [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard DNS filter
+- [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 
 ## Assembly 
 
