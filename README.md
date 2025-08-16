@@ -744,6 +744,7 @@
 
 ## TypeScript 
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [bozokopic/opcut](https://github.com/bozokopic/opcut) - Cutting stock problem optimizer
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
