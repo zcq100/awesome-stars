@@ -42,6 +42,7 @@
 - [continuous-integration](#continuous-integration)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -455,6 +456,11 @@
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+## crawler 
+
+- [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 ## cryptocurrency 
 
@@ -1225,7 +1231,7 @@
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [PluMGMK/vbesvga.drv](https://github.com/PluMGMK/vbesvga.drv) - Modern Generic SVGA driver for Windows 3.1
 - [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
-- [fmhy/edit](https://github.com/fmhy/edit) - https://fmhy.net/
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [Pavankunchala/LLM-Learn-PK](https://github.com/Pavankunchala/LLM-Learn-PK) - Testing the different LLM and RAG Tests  while I learn along the way
