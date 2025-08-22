@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -672,7 +673,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - A Ruby wrapper for OAuth 2.0 protocol, including OIDC
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 A Ruby wrapper for OAuth 2.0 protocol, including OIDC
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
