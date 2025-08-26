@@ -676,7 +676,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 A Ruby wrapper for OAuth 2.0 protocol, including OIDC
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 oauth2 - A Ruby wrapper for the OAuth 2.0 Authorization Framework, including OpenID Connect (OIDC)
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
@@ -748,6 +748,8 @@
 
 ## TypeScript 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [bozokopic/opcut](https://github.com/bozokopic/opcut) - Cutting stock problem optimizer
@@ -763,7 +765,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
