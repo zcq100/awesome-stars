@@ -69,6 +69,7 @@
 
 ## C 
 
+- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [google/gasket-driver](https://github.com/google/gasket-driver) - 
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) - Clone of upstream U-Boot repo with patches for Arm development boards
