@@ -581,7 +581,7 @@
 - [skshetry/webdav4](https://github.com/skshetry/webdav4) - WebDAV client library with a fsspec based filesystem and a CLI.
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [sylikc/pyexiftool](https://github.com/sylikc/pyexiftool) - PyExifTool (active PyPI project) - A Python library to communicate with an instance of Phil Harvey's ExifTool command-line application.  Runs one process with special -stay_open flag, and pipes data t
@@ -682,7 +682,7 @@
 - [bmizerany/sinatra](https://github.com/bmizerany/sinatra) - (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
 - [omniauth/omniauth-oauth2](https://github.com/omniauth/omniauth-oauth2) - An abstract OAuth2 strategy for OmniAuth.
 - [void-main/Cologger](https://github.com/void-main/Cologger) - Colorful logger for ruby
-- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 oauth2 - A Ruby wrapper for the OAuth 2.0 Authorization Framework, including OpenID Connect (OIDC)
+- [ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2) - 🔐 oauth2 - A Ruby wrapper for the OAuth 2.0, & 2.1 Authorization Frameworks, including OpenID Connect (OIDC)
 - [zlx/API-mock-server](https://github.com/zlx/API-mock-server) - Full-Featured API Mock Server
 - [simsicon/weibo_2](https://github.com/simsicon/weibo_2) - A ruby gem for sina weibo oauth2 api, with examples, and it actually works.
 - [gladtocode/naw-ar_mailer_rails3](https://github.com/gladtocode/naw-ar_mailer_rails3) - A two-phase delivery agent for ActionMailer which works for Rails 3.
