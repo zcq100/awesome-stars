@@ -195,7 +195,6 @@
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
 
@@ -396,6 +395,7 @@
 
 ## Lua 
 
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [gmdfalk/awesome-themes](https://github.com/gmdfalk/awesome-themes) - themes for the current version of awesome-wm
@@ -816,6 +816,7 @@
 
 ## Vue 
 
+- [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [sharevb/it-tools](https://github.com/sharevb/it-tools) - My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )
 - [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
 - [wcj343169893/cloudmarket](https://github.com/wcj343169893/cloudmarket) - 身边的线上生活超市，根据当前定位，就近匹配仓库，类似现有的app：盒马鲜生，美团买菜，叮咚买菜，朴朴超市，永辉买菜，平价买菜。
