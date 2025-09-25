@@ -35,6 +35,7 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -436,6 +437,13 @@
 - [Ortus-Solutions/commandbox](https://github.com/Ortus-Solutions/commandbox) - CommandBox ColdFusion (CFML) CLI, Package Manager, REPL and more
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+## cloud 
+
+- [DavidDeSimone/OpenCloudSaves](https://github.com/DavidDeSimone/OpenCloudSaves) - A tool used for syncing your save games across your devices
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [NebulousLabs/Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia
 
 ## cms 
 
