@@ -1375,7 +1375,7 @@
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [sylikc/pyexiftool](https://github.com/sylikc/pyexiftool) - PyExifTool (active PyPI project) - A Python library to communicate with an instance of Phil Harvey's ExifTool command-line application.  Runs one process with special -stay_open flag, and pipes data t
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -1461,7 +1461,7 @@
 - [Andyfoo/GoSubTitleSearcher](https://github.com/Andyfoo/GoSubTitleSearcher) - 字幕搜索查询(go语言版)，支持4k 2160p,1080p,720p视频字幕搜索，集合了字幕库、迅雷、射手、SubHD查询接口。
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers
-- [CymaticLabs/InfluxDBStudio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool for the InfluxDB time series database.
+- [meverett/InfluxDBStudio](https://github.com/meverett/InfluxDBStudio) - InfluxDB Studio is a UI management tool for the InfluxDB time series database.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [espressif/esp-at](https://github.com/espressif/esp-at) - AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266
