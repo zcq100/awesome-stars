@@ -247,7 +247,7 @@
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices
+- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -420,6 +420,7 @@
 
 ## Others 
 
+- [nicnic-cc/trmnl-mini](https://github.com/nicnic-cc/trmnl-mini) - 4.26" 800x480 TRMNL Mini (DIY)
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers
