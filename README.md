@@ -245,7 +245,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices.
