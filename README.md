@@ -566,7 +566,7 @@
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [LorenEteval/Furious](https://github.com/LorenEteval/Furious) - A GUI proxy client based on PySide6. Support Xray-core & hysteria
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
