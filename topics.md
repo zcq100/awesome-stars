@@ -486,6 +486,7 @@
 
 ## computer-vision 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 
@@ -1172,6 +1173,7 @@
 
 ## machine-learning 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [akshaybahadur21/Autopilot](https://github.com/akshaybahadur21/Autopilot) - A simple self-driving car module for humans 🚘 🛣️
 - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) - xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
