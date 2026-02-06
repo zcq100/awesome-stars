@@ -1366,7 +1366,7 @@
 - [QingNetwork/FuckingHuaweiHG8321R](https://github.com/QingNetwork/FuckingHuaweiHG8321R) - 通过使能破解华为HG8321R光猫打开Telnet突破超管限制
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
-- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model
 - [FYSETC/FYSETC-BLV-MGN-CUBE](https://github.com/FYSETC/FYSETC-BLV-MGN-CUBE) - FYSETC Kit - This kit is BLV project that comes from Ben Levi, and its name is BLV MGN Cube.We've made some optimizations on top of that, and we hope you like it.
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
@@ -1535,7 +1535,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [lephisto/tesla-apiscraper](https://github.com/lephisto/tesla-apiscraper) - API Scraper for pulling Vehicle Statistics from the Tesla Owner API into an InfluxDB + Grafana Dashboards
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [bear-metal/mosquitto](https://github.com/bear-metal/mosquitto) - Ruby binding against libmosquitto (http://mosquitto.org/) - a high performance MQTT protocol (http://mqtt.org) client
