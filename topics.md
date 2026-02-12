@@ -209,6 +209,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unity](#unity)
+- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -1404,7 +1405,6 @@
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -1520,7 +1520,6 @@
 - [espressif/esp-at](https://github.com/espressif/esp-at) - AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-- [kuoruan/openwrt-v2ray](https://github.com/kuoruan/openwrt-v2ray) - V2Ray for OpenWrt
 - [blawar/nut](https://github.com/blawar/nut) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
@@ -2059,6 +2058,22 @@
 ## unity 
 
 - [0x7c13/Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) - The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇侠传三外传：问情篇) re-implementation using C#/Unity
+
+## v2ray 
+
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [LorenEteval/Furious](https://github.com/LorenEteval/Furious) - A GUI proxy client based on PySide6. Support Xray-core & hysteria
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+- [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+- [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
+- [kuoruan/openwrt-v2ray](https://github.com/kuoruan/openwrt-v2ray) - V2Ray for OpenWrt
+- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ## video 
 
