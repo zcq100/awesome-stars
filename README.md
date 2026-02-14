@@ -614,7 +614,7 @@
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [seagoat/pillars_of_eternity_Chinese](https://github.com/seagoat/pillars_of_eternity_Chinese) - Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
-- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, QGC, RTCM3, NTRIP & SPARTN Protocols
+- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, UNIU, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
