@@ -653,7 +653,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 
 ## Ren'Py 
 
