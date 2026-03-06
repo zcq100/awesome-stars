@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [impeeza/sys-patch](https://github.com/impeeza/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -216,6 +217,7 @@
 
 ## Dart 
 
+- [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -325,6 +327,7 @@
 
 ## JavaScript 
 
+- [huanglizhuo/Ketsuin](https://github.com/huanglizhuo/Ketsuin) - 结印 Ketsuin - Type with Ninja Hand Signs! A webcam-based T9 input method powered by YOLOX and ONNX Runtime Web.
 - [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -760,6 +763,7 @@
 
 ## TypeScript 
 
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
