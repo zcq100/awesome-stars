@@ -331,6 +331,7 @@
 
 ## JavaScript 
 
+- [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 - [huanglizhuo/Ketsuin](https://github.com/huanglizhuo/Ketsuin) - 结印 Ketsuin - Type with Ninja Hand Signs! A webcam-based T9 input method powered by YOLOX and ONNX Runtime Web.
 - [DOSAYGO-STUDIO/HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook) - Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News. Updated weekly.
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
