@@ -78,6 +78,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -256,7 +257,7 @@
 
 ## ai-agents 
 
-- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
+- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece.
 
 ## algorithm 
 
@@ -732,6 +733,14 @@
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+
+## esp32 
+
+- [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
+- [esphome/issues](https://github.com/esphome/issues) - Issue Tracker for ESPHome
+- [espressif/esp-at](https://github.com/espressif/esp-at) - AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 
 ## fastapi 
 
@@ -1553,7 +1562,6 @@
 - [meverett/InfluxDBStudio](https://github.com/meverett/InfluxDBStudio) - InfluxDB Studio is a UI management tool for the InfluxDB time series database.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
-- [espressif/esp-at](https://github.com/espressif/esp-at) - AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
 - [blawar/nut](https://github.com/blawar/nut) - 
@@ -1887,7 +1895,7 @@
 
 ## rust 
 
-- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
+- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
