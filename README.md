@@ -19,6 +19,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
+- [Fluent](#fluent)
 - [G-code](#g-code)
 - [Go](#go)
 - [HTML](#html)
@@ -233,6 +234,10 @@
 ## Erlang 
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## G-code 
 
@@ -706,7 +711,7 @@
 
 ## Rust 
 
-- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
+- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -716,7 +721,6 @@
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [golemfactory/yagna](https://github.com/golemfactory/yagna) - An open platform and marketplace for distributed computations
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS updater for Cloudflare
