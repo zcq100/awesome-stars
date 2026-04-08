@@ -1369,6 +1369,7 @@
 
 ## others 
 
+- [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
