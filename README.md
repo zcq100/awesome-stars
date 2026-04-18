@@ -714,7 +714,7 @@
 ## Rust 
 
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
-- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Actionbook provides up-to-date action manuals, so your AI agent operates any website 10x faster without guessing.
+- [actionbook/actionbook](https://github.com/actionbook/actionbook) - Let your AI agent uses your browser. Actionbook makes it actually work.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
