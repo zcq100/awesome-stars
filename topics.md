@@ -32,6 +32,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -420,6 +421,12 @@
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [bsdelf/mous](https://github.com/bsdelf/mous) - Lightweight audio player & converter for FreeBSD/Linux/macOS
+
+## c-sharp 
+
+- [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## chatbot 
 
@@ -1623,7 +1630,6 @@
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [zcq100/atom-simplified-chinese-menu](https://github.com/zcq100/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 - [zcq100/vim_config](https://github.com/zcq100/vim_config) - a vim config
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 - [qiniu/ruby-sdk](https://github.com/qiniu/ruby-sdk) - Qiniu Resource (Cloud) Storage SDK for Ruby
