@@ -229,7 +229,6 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) - 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Erlang 
 
@@ -363,6 +362,7 @@
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [erdongchanyo/Rules](https://github.com/erdongchanyo/Rules) - 收集整理觉得还行的一些规则
 - [evilbutcher/Quantumult_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
