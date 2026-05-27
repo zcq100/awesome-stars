@@ -1413,7 +1413,6 @@
 ## others 
 
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
-- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
