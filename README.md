@@ -524,6 +524,8 @@
 
 ## Python 
 
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
+- [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [darksoap/JavSP](https://github.com/darksoap/JavSP) - 汇总多站点数据的AV元数据刮削器
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
