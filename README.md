@@ -74,7 +74,7 @@
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel
 - [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [google/gasket-driver](https://github.com/google/gasket-driver) - 
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) - Clone of upstream U-Boot repo with patches for Arm development boards
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
@@ -647,6 +647,7 @@
 - [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, UNI, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
+- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [hynek/doc2dash](https://github.com/hynek/doc2dash) - Create docsets for Dash.app-compatible API browsers.
@@ -774,7 +775,6 @@
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
 - [kedei/LCD_driver](https://github.com/kedei/LCD_driver) - kedei SPI 128M 60HZ  raspberry fbtft driver
-- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
