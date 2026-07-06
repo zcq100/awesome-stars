@@ -529,6 +529,7 @@
 
 ## Python 
 
+- [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [MalwareTech/ExifSmugglingPoC](https://github.com/MalwareTech/ExifSmugglingPoC) - A Proof-of-Concept using Cache Smuggling + Exif data to passively download a second stage payload
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
@@ -797,6 +798,7 @@
 
 ## TypeScript 
 
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
