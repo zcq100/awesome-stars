@@ -1419,7 +1419,7 @@
 
 ## open-data 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 1,900+ CCTV camera specs across 69 brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 2,100+ CCTV camera specs across 69 brands — searchable, filterable, CC0
 
 ## open-source 
 
