@@ -439,6 +439,7 @@
 
 ## Markdown 
 
+- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - 将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Meson 
