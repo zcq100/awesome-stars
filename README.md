@@ -416,7 +416,7 @@
 ## Kotlin 
 
 - [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable.
-- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
+- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a fast, intelligent, scalable, multi-scenario agentic browser.
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
