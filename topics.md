@@ -1483,6 +1483,7 @@
 
 ## others 
 
+- [reubenjds/webrcm](https://github.com/reubenjds/webrcm) - WebUSB RCM exploit for the Switch
 - [ttv20/wine4office](https://github.com/ttv20/wine4office) - wine fork that made MS Ofiice work on linux
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
