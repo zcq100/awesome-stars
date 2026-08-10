@@ -98,7 +98,7 @@
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
-- [renpy/renpyweb](https://github.com/renpy/renpyweb) - Ren'Py in your HTML5 web browser
+- [renpy/renpyweb](https://github.com/renpy/renpyweb) - Archived: Ren'Py in your HTML5 web browser
 - [gnea/grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 - [Duet3D/RepRapFirmware](https://github.com/Duet3D/RepRapFirmware) - OO C++ RepRap Firmware
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
