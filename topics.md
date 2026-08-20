@@ -867,7 +867,7 @@
 ## font 
 
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -949,6 +949,7 @@
 
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
@@ -972,6 +973,7 @@
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [eduard256/Strix](https://github.com/eduard256/Strix) - Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
@@ -1091,7 +1093,7 @@
 
 ## home-assistant 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 2,900+ CCTV camera specs across 70+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 - [eduard256/Strix](https://github.com/eduard256/Strix) - Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [mypal/ha-dsair](https://github.com/mypal/ha-dsair) - Daikin DS-AIR Custom Component For Home Assistant
@@ -1462,7 +1464,7 @@
 
 ## open-data 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 2,900+ CCTV camera specs across 70+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 
 ## open-source 
 
@@ -1498,6 +1500,7 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [StackC00ki3/Nethack-cn](https://github.com/StackC00ki3/Nethack-cn) - Nethack 5.0.0 汉化 (WIP)
 - [reubenjds/webrcm](https://github.com/reubenjds/webrcm) - WebUSB RCM exploit for the Switch
 - [ttv20/wine4office](https://github.com/ttv20/wine4office) - wine fork that made MS Ofiice work on linux
@@ -1512,7 +1515,6 @@
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
@@ -1572,7 +1574,7 @@
 - [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable.
 - [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) - Qt based GUI tool designed to create and edit .torrent files
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
@@ -2096,6 +2098,7 @@
 
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [eduard256/Strix](https://github.com/eduard256/Strix) - Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -2279,6 +2282,7 @@
 
 ## ui 
 
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
@@ -2332,6 +2336,7 @@
 
 ## vpn 
 
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
@@ -2363,6 +2368,7 @@
 
 ## web 
 
+- [yix/wg-busy](https://github.com/yix/wg-busy) - Simple wire-guard UI
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
