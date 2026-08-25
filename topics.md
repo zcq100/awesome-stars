@@ -257,7 +257,7 @@
 
 ## agent-skills 
 
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
@@ -291,7 +291,7 @@
 ## ai-agents 
 
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -520,7 +520,7 @@
 ## claude-code 
 
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
@@ -529,7 +529,7 @@
 
 ## claude-skills 
 
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 
 ## cli 
@@ -903,7 +903,7 @@
 
 ## game-development 
 
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 
 ## game-engine 
@@ -913,7 +913,7 @@
 
 ## gamedev 
 
-- [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 
 ## games 
