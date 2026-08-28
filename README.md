@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser) - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
 - [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
@@ -455,6 +456,7 @@
 
 ## Others 
 
+- [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) - Shadowrocket_Rules
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
@@ -536,6 +538,7 @@
 
 ## Python 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
