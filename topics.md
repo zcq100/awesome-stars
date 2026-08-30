@@ -527,7 +527,7 @@
 - [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
 - [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,700+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps u
 
@@ -610,7 +610,6 @@
 
 ## cryptocurrency 
 
-- [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## cryptography 
@@ -1100,7 +1099,7 @@
 
 ## home-assistant 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,700+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 - [eduard256/Strix](https://github.com/eduard256/Strix) - Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [mypal/ha-dsair](https://github.com/mypal/ha-dsair) - Daikin DS-AIR Custom Component For Home Assistant
@@ -1191,7 +1190,7 @@
 
 ## javascript 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,700+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
@@ -1438,7 +1437,7 @@
 ## nextjs 
 
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,700+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 
@@ -1477,7 +1476,7 @@
 
 ## open-data 
 
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,400+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,700+ CCTV camera specs across 77+ brands — searchable, filterable, CC0
 
 ## open-source 
 
@@ -1521,6 +1520,7 @@
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+- [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 美股、期权与加密货币知识框架
 - [MalwareTech/ExifSmugglingPoC](https://github.com/MalwareTech/ExifSmugglingPoC) - A Proof-of-Concept using Cache Smuggling + Exif data to passively download a second stage payload
 - [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [darksoap/JavSP](https://github.com/darksoap/JavSP) - 汇总多站点数据的AV元数据刮削器
