@@ -351,7 +351,7 @@
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
 - [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 美股、期权与加密货币知识框架
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 3,900+ CCTV camera specs across 90+ brands — searchable, filterable, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 6,300+ CCTV camera specs across 123+ brands, with Frigate and ONVIF/RTS integration, CC0
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 - [huanglizhuo/Ketsuin](https://github.com/huanglizhuo/Ketsuin) - 结印 Ketsuin - Type with Ninja Hand Signs! A webcam-based T9 input method powered by YOLOX and ONNX Runtime Web.
@@ -458,7 +458,6 @@
 
 - [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) - Shadowrocket_Rules
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [nicnic-cc/trmnl-mini](https://github.com/nicnic-cc/trmnl-mini) - 4.26" 800x480 TRMNL Mini (DIY)
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
@@ -817,6 +816,7 @@
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
@@ -891,7 +891,7 @@
 - [wcj343169893/cloudmarket](https://github.com/wcj343169893/cloudmarket) - 身边的线上生活超市，根据当前定位，就近匹配仓库，类似现有的app：盒马鲜生，美团买菜，叮咚买菜，朴朴超市，永辉买菜，平价买菜。
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
-- [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
+- [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 图片编辑器、AI 在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
