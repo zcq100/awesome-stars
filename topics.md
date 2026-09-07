@@ -807,7 +807,7 @@
 
 ## electron 
 
-- [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser) - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
+- [sheying2013/OpenBrowser](https://github.com/sheying2013/OpenBrowser) - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free an
