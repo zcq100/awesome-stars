@@ -1728,7 +1728,7 @@
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [gglockner/teslajson](https://github.com/gglockner/teslajson) - Simple Python class to access the Tesla JSON API
 - [tkrajina/srtm.py](https://github.com/tkrajina/srtm.py) - Geo elevation data parser for "The Shuttle Radar Topography Mission" data
-- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
 - [lintx/jgm-calculator](https://github.com/lintx/jgm-calculator) - 家国梦建筑计算器
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
