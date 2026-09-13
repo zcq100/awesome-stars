@@ -442,7 +442,7 @@
 
 ## Markdown 
 
-- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent skills for source-grounded novel-to-game adaptation: design, target-runtime builds, and evidence-based QA. For Claude Code, Codex, and Kimi Code.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Meson 
