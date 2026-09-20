@@ -284,7 +284,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
