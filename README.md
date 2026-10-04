@@ -350,7 +350,6 @@
 
 - [sheying2013/OpenBrowser](https://github.com/sheying2013/OpenBrowser) - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
-- [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 美股、期权与加密货币知识框架
 - [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 27,000+ CCTV camera specs across 220+ brands, with Frigate and ONVIF/RTS integration, CC0
 - [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
@@ -458,6 +457,7 @@
 
 - [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) - Shadowrocket_Rules
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 美股、期权与加密货币知识框架
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [nicnic-cc/trmnl-mini](https://github.com/nicnic-cc/trmnl-mini) - 4.26" 800x480 TRMNL Mini (DIY)
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
