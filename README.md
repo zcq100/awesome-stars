@@ -74,7 +74,7 @@
 
 ## C 
 
-- [StackC00ki3/Nethack-cn](https://github.com/StackC00ki3/Nethack-cn) - Nethack 5.0.0 汉化 (WIP)
+- [StackC00ki3/Nethack-cn](https://github.com/StackC00ki3/Nethack-cn) - Nethack 5.0.0-5.0.1 汉化 (WIP)
 - [ttv20/wine4office](https://github.com/ttv20/wine4office) - wine fork that made MS Ofiice work on linux
 - [jordanhubbard/nanolang](https://github.com/jordanhubbard/nanolang) - A tiny experimental language designed to be targeted by coding LLMs
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel
@@ -550,7 +550,6 @@
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [darksoap/JavSP](https://github.com/darksoap/JavSP) - 汇总多站点数据的AV元数据刮削器
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
