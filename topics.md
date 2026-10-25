@@ -1546,6 +1546,8 @@
 
 ## others 
 
+- [aozorae/EdgeSSH](https://github.com/aozorae/EdgeSSH) - 基于 Cloudflare Workers 的轻量 WebSSH 工作台，支持主机管理、加密存储、SFTP、进程监控与地球可视化。A lightweight WebSSH workspace on Cloudflare Workers with host management, encrypted storage, SFTP, process monitoring and globe visual
+- [yinzhenyu-su/qrypt](https://github.com/yinzhenyu-su/qrypt) - qrypt is a cloud disk aggregation mounting tool that supports end-to-end encryption, content rapid upload, and unifies S3, WebDAV, and other types of storage into a local file system.
 - [dragosmiron/immich-video-optimizer](https://github.com/dragosmiron/immich-video-optimizer) - Interactive terminal client to reclaim gigabytes on your Immich server by re-encoding videos to hardware-accelerated HEVC while preserving 100% of metadata
 - [AnInsomniacy/aria2-next](https://github.com/AnInsomniacy/aria2-next) - Redefining the next generation of aria2
 - [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) - Shadowrocket_Rules
