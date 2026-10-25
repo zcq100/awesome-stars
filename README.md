@@ -253,6 +253,7 @@
 
 ## Go 
 
+- [yinzhenyu-su/qrypt](https://github.com/yinzhenyu-su/qrypt) - qrypt is a cloud disk aggregation mounting tool that supports end-to-end encryption, content rapid upload, and unifies S3, WebDAV, and other types of storage into a local file system.
 - [dragosmiron/immich-video-optimizer](https://github.com/dragosmiron/immich-video-optimizer) - Interactive terminal client to reclaim gigabytes on your Immich server by re-encoding videos to hardware-accelerated HEVC while preserving 100% of metadata
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -816,6 +817,7 @@
 
 ## TypeScript 
 
+- [aozorae/EdgeSSH](https://github.com/aozorae/EdgeSSH) - 基于 Cloudflare Workers 的轻量 WebSSH 工作台，支持主机管理、加密存储、SFTP、进程监控与地球可视化。A lightweight WebSSH workspace on Cloudflare Workers with host management, encrypted storage, SFTP, process monitoring and globe visual
 - [reubenjds/webrcm](https://github.com/reubenjds/webrcm) - WebUSB RCM exploit for the Switch
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
