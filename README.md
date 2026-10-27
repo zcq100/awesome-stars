@@ -354,7 +354,7 @@
 
 - [sheying2013/OpenBrowser](https://github.com/sheying2013/OpenBrowser) - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
-- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 27,000+ CCTV camera specs across 220+ brands, with Frigate and ONVIF/RTS integration, CC0
+- [ch-bas/cctv-camera-database](https://github.com/ch-bas/cctv-camera-database) - Open database of 29,000+ CCTV camera specs across 230+ brands, with Frigate and ONVIF/RTS integration, CC0
 - [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
@@ -541,6 +541,7 @@
 
 ## Python 
 
+- [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
