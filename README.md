@@ -163,7 +163,7 @@
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) - Qt based GUI tool designed to create and edit .torrent files
 - [google/vpn-libraries](https://github.com/google/vpn-libraries) - The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-goog
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
@@ -426,6 +426,7 @@
 
 ## Kotlin 
 
+- [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
 - [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
 - [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable.
 - [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
