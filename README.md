@@ -429,7 +429,7 @@
 ## Kotlin 
 
 - [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
-- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
+- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.
 - [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable.
 - [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
