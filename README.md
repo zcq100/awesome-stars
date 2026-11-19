@@ -759,6 +759,8 @@
 
 ## Rust 
 
+- [TomasDJo/solidcraft-woodwork](https://github.com/TomasDJo/solidcraft-woodwork) - Woodworking plugin for SolidCraft: parametric cabinets, drawers, joinery, materials and cut lists
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [rleeon/hoard](https://github.com/rleeon/hoard) - Free Automatic, versioned game save backup and sync for Windows, Linux, macOS, SteamOS, Brazzite.... Auto-detects 22,000+ games and any emulator. Use Hoard Cloud, or self-host with no Hoard One accoun
