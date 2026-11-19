@@ -1587,6 +1587,8 @@
 
 ## others 
 
+- [TomasDJo/solidcraft-woodwork](https://github.com/TomasDJo/solidcraft-woodwork) - Woodworking plugin for SolidCraft: parametric cabinets, drawers, joinery, materials and cut lists
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
 - [Goblinmine/homelab-diagram](https://github.com/Goblinmine/homelab-diagram) - Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.
 - [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
